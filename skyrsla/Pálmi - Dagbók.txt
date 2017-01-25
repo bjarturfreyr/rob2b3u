@@ -21,4 +21,4 @@ Góður dagur. Fór aðeins fyrr til að komast í vinnuna.
 Bjartur var ekki viðstaddur í dag. Ég bjó til vikuplan sem er gert til að breyta
 því það þarf að láta tímana í. Náði að láta Hardware listan virka og uppfærði skýrsluna.
 "Uppfærði dagbók"  
-*********************************************************************** 
+************************************************************************ 
