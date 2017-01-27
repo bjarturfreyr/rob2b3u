@@ -22,3 +22,10 @@ Bjartur var ekki viðstaddur í dag. Ég bjó til vikuplan sem er gert til að breyta
 því það þarf að láta tímana í. Náði að láta Hardware listan virka og uppfærði skýrsluna.
 "Uppfærði dagbók"  
 ************************************************************************ 
+- 25.01.17 -
+Í dag kláraði ég Hardware listan og uppfærði data í skýrsluni. Ég færði mig líka frá því 
+að nota github desktop yfir í SorceTree. Vandræði var með að reina pusha mitt dót yfir á 
+masterinn en það kom allt í lag á endanum. Það er eitthvað vandamál með að ég gét ekki
+compilað skýrsluna þannig að Bjartur þarf að sjá um að frá með í dag.
+"Uppfærði dagbók"
+************************************************************************ 
