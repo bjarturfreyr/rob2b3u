@@ -1,12 +1,16 @@
-\section{Flæðirit og sauðakóði}Hér skal gera flæðirit og sauðakóða nýtið ykkur https://draw.io. Þegar þið hafið lokið að gera flæðiritið farið í export-image og vistið grafið í skyrsla/img meðnafni "flowhart". í Þessu skjali skuluð þið gera sauðakóða 
-dæmi:\\
-loop forewer\{
-  drive(until done)\\
-  ArmUp(30)\\
-  armDon(30)\\
-  clawOpen()\\
-  drive(until done)\\
-\}
-\begin{figure}[h]
-\includegraphics[scale=0.5]{img/flowchart}
-\end{figure}
+\section{Flæðirit og sauðakóði}Fyrir neðan er smá sauðakóði sem gefur hugmynd um hvað loopan í python kóðanum verður:\\\\
+while(true)\{\\
+  if(user press up):\\
+  	pin1.sendsignal\\
+  elif(user press left):\\
+  	pin2.sendsignal\\
+  elif(user press right):\\
+  	pin3.sendsignal\\
+  elif(user press down):\\
+  	pin4.sendsignal\\
+  sendcamerafeed()\\
+\}\\\\
+Fyrir neðan er flæðirit sem útskýrir með myndmáli hvað á að gerast í vélmennaferlinu okkar.\\
+\begin{center}
+\includegraphics[scale=0.6]{img/flowchart}
+\end{center}

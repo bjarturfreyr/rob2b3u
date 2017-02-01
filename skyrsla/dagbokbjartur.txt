@@ -1,0 +1,38 @@
+﻿14/12/2016
+Bjó til dagbók og uppfærði skýrslu
+
+06/01/2017
+Installaði TexMaker bæði í skólanum og heima. Fórum yfir hvað verkefnið snýst um o.s.frv. Ekkert mikilvægt gerðist
+
+11/01/2017
+Fann vinnufélaga sem ætlar að hjálpa mér að búa til róbotinn. Strax búinn að gleyma hvað hann heitir. Alex? Allavega, ætlum annaðhvort að 
+búa til eftirlýkingu af Theo Jansen walking mechanisminum, eða þá að búa til lítinn og léttann bomb-disposal robot sem er með live-video uplink
+á desktop tölvu og getur kannski hoppað ef verkefnið fer vel. Infrared camera og allskonar líka. Sjáum til hvort við veljum.
+
+13/01/2017
+Gaurinn sem vinnur með mér heitir Pálmi. Allavega, við vorum að pæla í verkefninu í dag og erum staðfestir á að vinna í DangerDrone sem er einskonar
+scoutdróni sem björgunarsveitir, SWAT lið og herinn getur notað. Mikið af rannsóknum var gert og það er ljóst að Arduino er ekki hæft í live-video feed
+sem er það sem við viljum, þannig að við ætlum að nota raspberry pi. Skrifuðum meira af Introinu og ég bjó til einfalt flowchart, sem ég mun örugglega
+breyta. Pálmi skrifaði hardware listann en lennti í einhverjum vandamálum. Ágætur dagur.
+
+18/01/2017
+Ég er í árskstri á miðvikudögum með Robotics og Gagnasafnsfræði. Ég er að vinna með Haraldi í gagnasafnsfræði og við vorum næstumþví búnir með verkefnið.
+Ég ákvað að vera þar og klára það verkefni í dag. Bömmer fyrir pálma, fyrirgefðu.
+
+20/01/2017
+Amma mín var lasin uppi á spítala. Þurfti að vera þar í dag.
+
+25/01/2017
+Gerði einfalt flowchart til að lýsa því hvað vélmennið á að gera. Þetta er "temporary" flowchart, var eiginlega bara að prófa vefsíðuna draw.io. Uppfæri
+flæðiritið væntanlega einhverntímann seinna. Hjálpaði Pálma að setja upp Sourcetree og það gékk ágætlega. Userinn hanns er buggaður en það ætti ekki að
+skipta mestu máli.
+
+27/01/2017
+Var í jarðarför. Mætti ekki.
+
+1/02/2017
+Tók við Raspberri Pi 3 frá Eirík í dag. Lítur helvíti vel út, ætti að kaupa eitt stykki sjálfur, til að eiga! Allavega, skoðaði hvernig maður installar
+Linux á þessu (það fylgir reyndar með.) og hvernig kóði er forritaður fyrir mótora og skynjara o.s.frv. Virðist vera frekar auðvelt, bara einfaldur
+python kóði sem sendir skilaboð í pinnana sem eru á hliðini á raspberri pi-inu. Við þurfum HDMI-DVI tengi til þess að byrja að vinna í því hinsvegar.
+Lagaði skýrsluna í texmaker, setti newline og ehv. Stækkaði introið og bætti við sauðakóða. Setti dagbækurnar inn í texmaker. Uppfærði annað hér og þar,
+t.d. setja inn myndir þar sem vantaði. Smá fínpússun. Pálmi var ekki í tímanum, en það er allt í lagi.

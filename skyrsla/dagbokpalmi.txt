@@ -1,0 +1,31 @@
+﻿		     /*******************\
+<-------------------<| ROB2B3U  - Dagbók |>-------------------> 
+<-------------------<| Pálmi C Rúnarsson |>-------------------> 
+		     \*******************/
+- 06.01.17 -
+Kynning á áfanganum. Ég hlóð niður TexMaker á tölvuna og kláraði tíman.
+"Uppfærði dagbók"
+***********************************************************************
+- 11.01.17 -
+Í dag var sett í hópa og var talað um hvað maður vildi gera í verkefninu. Ég
+er í hóð með Bjarti og við vildum gera einskonar "danger vélmenni" með myndavél
+og fleyri hlutum. Skoðuðum eitthverja hardware og sögðum það gott í dag.
+"Uppfærði dagbók"
+***********************************************************************
+- 13.01.17 -
+Ég tók saman lítin hardware lista en lenti í vandræðum að compile'a það. 
+Góður dagur. Fór aðeins fyrr til að komast í vinnuna.
+"Uppfærði dagbók"
+***********************************************************************
+- 18.01.17 - 
+Bjartur var ekki viðstaddur í dag. Ég bjó til vikuplan sem er gert til að breyta
+því það þarf að láta tímana í. Náði að láta Hardware listan virka og uppfærði skýrsluna.
+"Uppfærði dagbók"  
+************************************************************************ 
+- 25.01.17 -
+Í dag kláraði ég Hardware listan og uppfærði data í skýrsluni. Ég færði mig líka frá því 
+að nota github desktop yfir í SorceTree. Vandræði var með að reina pusha mitt dót yfir á 
+masterinn en það kom allt í lag á endanum. Það er eitthvað vandamál með að ég gét ekki
+compilað skýrsluna þannig að Bjartur þarf að sjá um að frá með í dag.
+"Uppfærði dagbók"
+************************************************************************ 
