@@ -30,9 +30,18 @@ skipta mestu máli.
 27/01/2017
 Var í jarðarför. Mætti ekki.
 
-1/02/2017
+01/02/2017
 Tók við Raspberri Pi 3 frá Eirík í dag. Lítur helvíti vel út, ætti að kaupa eitt stykki sjálfur, til að eiga! Allavega, skoðaði hvernig maður installar
 Linux á þessu (það fylgir reyndar með.) og hvernig kóði er forritaður fyrir mótora og skynjara o.s.frv. Virðist vera frekar auðvelt, bara einfaldur
 python kóði sem sendir skilaboð í pinnana sem eru á hliðini á raspberri pi-inu. Við þurfum HDMI-DVI tengi til þess að byrja að vinna í því hinsvegar.
 Lagaði skýrsluna í texmaker, setti newline og ehv. Stækkaði introið og bætti við sauðakóða. Setti dagbækurnar inn í texmaker. Uppfærði annað hér og þar,
 t.d. setja inn myndir þar sem vantaði. Smá fínpússun. Pálmi var ekki í tímanum, en það er allt í lagi.
+
+03/02/2017
+Það var ekki tími í dag vegna UT messu.
+
+08/02/2017
+Settum upp raspberry pi, löguðum til settings og stillingar þar. Instölluðum Pycharm til þess að geta forritað í betra umhverfi, lærði svolítið um linux og
+hvernig maður installar á því. Við erum með example kóða sem verður hentugur til þess að vinna með GPIO inputs og restina af pinnunum. Restin af tímanum
+fór í að læra hvernig pinnar, grounding, volts etc virkar. Eiríkur kenndi okkur hvernig svona engineering charts virka, við ætlum að setja þetta allt saman
+og prófa í næsta tíma. 

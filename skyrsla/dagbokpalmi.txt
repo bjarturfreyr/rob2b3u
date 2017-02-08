@@ -29,3 +29,6 @@ masterinn en það kom allt í lag á endanum. Það er eitthvað vandamál með
 compilað skýrsluna þannig að Bjartur þarf að sjá um að frá með í dag.
 "Uppfærði dagbók"
 ************************************************************************ 
+- 08.02.17 -
+Í dag í fyrsta skypti tengdum við PI við rafmag. Við settum upp editor og prufuðum eitthvað 
+en náðum ekkert að fara djuft í það. Í næsta tíma verður meira testing. 
