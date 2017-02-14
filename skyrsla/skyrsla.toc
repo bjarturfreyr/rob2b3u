@@ -7,4 +7,4 @@
 \contentsline {section}{\numberline {6}Lokaor\IeC {\dh }}{8}
 \contentsline {section}{\numberline {7}Heimildaskr\IeC {\'a}}{9}
 \contentsline {section}{\numberline {8}Vi\IeC {\dh }auki}{10}
-\contentsline {subsection}{\numberline {8.1}K\IeC {\'o}\IeC {\dh }i Arduino}{13}
+\contentsline {subsection}{\numberline {8.1}K\IeC {\'o}\IeC {\dh }i Arduino}{15}
