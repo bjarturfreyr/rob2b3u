@@ -45,3 +45,11 @@ Settum upp raspberry pi, löguðum til settings og stillingar þar. Instölluðu
 hvernig maður installar á því. Við erum með example kóða sem verður hentugur til þess að vinna með GPIO inputs og restina af pinnunum. Restin af tímanum
 fór í að læra hvernig pinnar, grounding, volts etc virkar. Eiríkur kenndi okkur hvernig svona engineering charts virka, við ætlum að setja þetta allt saman
 og prófa í næsta tíma. 
+
+10/02/2017
+Ég var veikur. Pálmi var líka veikur (held ég)
+
+15/02/2017
+Ég kláraði lýsingu verkefnisins loksins um kvöldið í gær. Ég og pálmi lærðum aðeins á "physical computing", þ.e.a.s við náðum að forrita raspberry
+pi til þess að kveikja og slökkva á LED í gegnum python kóða. Tengdum allt sjálfir með vírum, eftir upplýsingum á netinu. Ég uppfærði WeekPlan.png
+hjá okkur líka, og skilaði inn öðrum verkefnum.
