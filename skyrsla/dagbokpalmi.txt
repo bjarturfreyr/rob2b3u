@@ -32,3 +32,9 @@ compilað skýrsluna þannig að Bjartur þarf að sjá um að frá með í dag.
 - 08.02.17 -
 Í dag í fyrsta skypti tengdum við PI við rafmag. Við settum upp editor og prufuðum eitthvað 
 en náðum ekkert að fara djuft í það. Í næsta tíma verður meira testing. 
+************************************************************************ 
+- 15.02.17 -
+Í dag var spennandi dagur. Í fyrsta sinn í mínu lífi gerði ég eitthvað raf-fræðilega-teigt
+, sem gékk bara ágætlega. Við náðum að tengja LED ljós við Pi'ið og kveikja á því. Það 
+næsta sem er gert er að fá myndavél og ná að sjá mynd. Kannski byrja á að vinna með mótorana 
+til að virka en við sjáum til. Til næsta dags. 
