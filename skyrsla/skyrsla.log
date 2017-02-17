@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.25)  15 FEB 2017 08:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.25)  17 FEB 2017 13:56
 entering extended mode
 **./skyrsla.tex
 (skyrsla.tex
@@ -664,8 +664,62 @@ File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png used on input line 35.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [6 <./img/flowchart.png>] (testing.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 3--37
+ [6 <./img/flowchart.png>] (testing.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Overfull \hbox (6.81529pt too wide) in paragraph at lines 7--8
+\T1/cmr/m/n/17.28 "physical comput-ing[]og lát-um python for-rit kveikja
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Overfull \hbox (15.38399pt too wide) in paragraph at lines 13--14
+\T1/cmr/m/n/17.28 vél-menn-inu og inn á vef-síð-u/ipca-merain-terface/rou-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png used on input line 14.
+(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
+ [7]
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 19--37
 
  []
 
@@ -673,7 +727,7 @@ File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png used on input line 37.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [7] (conclution.tex)
+ [8] (conclution.tex)
 Overfull \hbox (2.28452pt too wide) in paragraph at lines 2--39
 \T1/cmr/m/n/17.28 Hér skal skrifa loka-orð um verk-efn-ið, hvernig gékk,
  []
@@ -682,7 +736,7 @@ File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png used on input line 39.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [8] (references.tex) (skyrsla.bbl
+ [9] (references.tex) (skyrsla.bbl
 Overfull \hbox (91.74174pt too wide) in paragraph at lines 2--1
 \T1/cmr/m/n/17.28 er-uð að leita af bók eða grein not-ið þá htt-ps://scholar.go
 ogle.is.
@@ -699,7 +753,7 @@ File: img/tskoli.png Graphic file (type png)
  <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png used on input line 43.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [9] (appendix.tex (dagbokbjartur.txt
+ [10] (appendix.tex (dagbokbjartur.txt
 
 ! Package inputenc Error: Unicode char ï»¿ (U+FEFF)
 (inputenc)                not set up for use with LaTeX.
@@ -733,7 +787,7 @@ File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png used on input line 14.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [10]
+ [11]
 Overfull \hbox (7.0851pt too wide) in paragraph at lines 16--16
 []\T1/cmr/m/n/17.28 breyta. Pálmi skrif-aði hardware list-ann en lennti
  []
@@ -757,7 +811,7 @@ File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png used on input line 27.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [11]
+ [12]
 Overfull \hbox (6.40231pt too wide) in paragraph at lines 36--36
 \T1/cmr/m/n/17.28 eru á hlið-ini á raspberri pi-inu. Við þurf-um HDMI-
  []
@@ -771,7 +825,21 @@ File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png used on input line 40.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [12]) (dagbokpalmi.txt
+ [13]
+Overfull \hbox (4.7986pt too wide) in paragraph at lines 53--53
+[]\T1/cmr/m/n/17.28 Ég klár-aði lýs-ingu verk-efn-is-ins loks-ins um kvöld-
+ []
+
+
+Overfull \hbox (6.35846pt too wide) in paragraph at lines 53--53
+\T1/cmr/m/n/17.28 comput-ing", þ.e.a.s við náð-um að for-rita raspberry 
+ []
+
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png used on input line 54.
+(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
+ [14]) (dagbokpalmi.txt
 
 ! Package inputenc Error: Unicode char ï»¿ (U+FEFF)
 (inputenc)                not set up for use with LaTeX.
@@ -791,11 +859,7 @@ Overfull \hbox (47.67844pt too wide) in paragraph at lines 1--2
 []\T1/cmr/m/n/17.28 /******************* <-------------------<| ROB2B3U
  []
 
-File: img/tskoli.png Graphic file (type png)
-<use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png used on input line 8.
-(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [13]
+
 Overfull \hbox (246.33981pt too wide) in paragraph at lines 8--8
 []\T1/cmr/m/n/17.28 ***********************************************************
 ************ 
@@ -812,7 +876,11 @@ Overfull \hbox (246.33981pt too wide) in paragraph at lines 14--14
 ************ 
  []
 
-
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png used on input line 17.
+(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
+ [15]
 Overfull \hbox (246.33981pt too wide) in paragraph at lines 19--19
 []\T1/cmr/m/n/17.28 ***********************************************************
 ************ 
@@ -824,12 +892,18 @@ Overfull \hbox (254.45728pt too wide) in paragraph at lines 24--24
 ************* 
  []
 
+
+Overfull \hbox (254.45728pt too wide) in paragraph at lines 31--31
+[]\T1/cmr/m/n/17.28 ***********************************************************
+************* 
+ []
+
 File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png used on input line 26.
+Package pdftex.def Info: img/tskoli.png used on input line 34.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [14]
-Overfull \hbox (254.45728pt too wide) in paragraph at lines 31--31
+ [16]
+Overfull \hbox (254.45728pt too wide) in paragraph at lines 35--35
 []\T1/cmr/m/n/17.28 ***********************************************************
 ************* 
  []
@@ -848,16 +922,16 @@ Overfull \hbox (5.67755pt too wide) in paragraph at lines 2--4
 [][][][][][][][][][][][][][] 
  []
 
-File: img/tskoli.png Graphic file (type png)
-<use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png used on input line 5.
-(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [15]
+
 Overfull \hbox (73.86485pt too wide) in paragraph at lines 8--10
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-
+File: img/tskoli.png Graphic file (type png)
+<use img/tskoli.png>
+Package pdftex.def Info: img/tskoli.png used on input line 10.
+(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
+ [17]
 Overfull \hbox (161.53424pt too wide) in paragraph at lines 10--11
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -884,9 +958,9 @@ Overfull \hbox (64.12381pt too wide) in paragraph at lines 26--27
 
 File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png used on input line 31.
+Package pdftex.def Info: img/tskoli.png used on input line 34.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [16]
+ [18]
 Overfull \hbox (5.67755pt too wide) in paragraph at lines 34--35
 [][][][][][][][][][][][][][] 
  []
@@ -923,9 +997,9 @@ Overfull \hbox (93.34694pt too wide) in paragraph at lines 52--53
 
 File: img/tskoli.png Graphic file (type png)
 <use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png used on input line 54.
+Package pdftex.def Info: img/tskoli.png used on input line 58.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [17]
+ [19]
 Overfull \hbox (15.4186pt too wide) in paragraph at lines 59--60
 [][][][][][][][][][][][][] 
  []
@@ -940,24 +1014,20 @@ Overfull \hbox (54.38277pt too wide) in paragraph at lines 72--73
 [][][][][][][][][][][][] 
  []
 
-File: img/tskoli.png Graphic file (type png)
-<use img/tskoli.png>
-Package pdftex.def Info: img/tskoli.png used on input line 79.
-(pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [18]))
+))
 File: img/tskoli.png Graphic file (type png)
  <use img/tskoli.png>
 Package pdftex.def Info: img/tskoli.png used on input line 45.
 (pdftex.def)             Requested size: 85.35826pt x 20.9319pt.
- [19] (skyrsla.aux) ) 
+ [20] (skyrsla.aux) ) 
 Here is how much of TeX's memory you used:
- 5708 strings out of 493333
- 73355 string characters out of 3127973
- 275386 words of memory out of 3000000
- 9132 multiletter control sequences out of 15000+200000
+ 5712 strings out of 493333
+ 73408 string characters out of 3127973
+ 275263 words of memory out of 3000000
+ 9136 multiletter control sequences out of 15000+200000
  13230 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,18n,44p,627b,2400s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,18n,43p,627b,2400s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\0604972069\AppData\Local\MiKTeX\2.9\fonts\pk\lj
 four\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\0604972069\AppData\Local\MiKTeX\
 2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\0604972069\AppDat
@@ -968,9 +1038,9 @@ i600\ecbx1440.pk> <C:\Users\0604972069\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
 \jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\0604972069\AppData\Local\MiKTeX\2.9\
 fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\0604972069\AppData\Lo
 cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.pk>
-Output written on skyrsla.pdf (19 pages, 318885 bytes).
+Output written on skyrsla.pdf (20 pages, 322981 bytes).
 PDF statistics:
- 462 PDF objects out of 1000 (max. 8388607)
+ 467 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

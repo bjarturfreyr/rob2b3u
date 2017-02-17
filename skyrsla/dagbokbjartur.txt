@@ -53,3 +53,7 @@ og prófa í næsta tíma.
 Ég kláraði lýsingu verkefnisins loksins um kvöldið í gær. Ég og pálmi lærðum aðeins á "physical computing", þ.e.a.s við náðum að forrita raspberry
 pi til þess að kveikja og slökkva á LED í gegnum python kóða. Tengdum allt sjálfir með vírum, eftir upplýsingum á netinu. Ég uppfærði WeekPlan.png
 hjá okkur líka, og skilaði inn öðrum verkefnum.
+
+17/02/2017
+Er ekki búinn að sofa í 2 daga. Kláraði samt að skrifa prófunarlistann og setja það inn á innu. Pálmi mætti ekki og ég get ekki hugsað. Fer vonandi
+snemma í dag.
