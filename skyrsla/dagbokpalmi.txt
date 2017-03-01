@@ -38,3 +38,8 @@ en náðum ekkert að fara djuft í það. Í næsta tíma verður meira testing
 , sem gékk bara ágætlega. Við náðum að tengja LED ljós við Pi'ið og kveikja á því. Það 
 næsta sem er gert er að fá myndavél og ná að sjá mynd. Kannski byrja á að vinna með mótorana 
 til að virka en við sjáum til. Til næsta dags. 
+*************************************************************************
+- 01.03.17
+Í dag setti ég upp myndavélina og reindi að ná að strema því á aðra tölvu en lenti í vandamálum
+þar sem talvan vildi ekki hlaða niður vlc og að updata sofwareið var ekki að virka. 
+Bjartur mætti ekki í dag.
