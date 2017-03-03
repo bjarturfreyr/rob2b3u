@@ -60,3 +60,12 @@ snemma í dag.
 
 22/02/2017
 Vann í verkefnum úr C++ áfanganum mínum. Pálmi mætti ekki.
+
+24/02/2017
+Veikur.
+
+01/03/2017
+Veikur.
+
+03/03/2017
+Notuðum mest allann tímann í að prófa kameruna og installa fullt af updates fyrir raspberry pi sem tók langann tíma. 
