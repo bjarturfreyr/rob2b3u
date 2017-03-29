@@ -38,8 +38,18 @@ en náðum ekkert að fara djuft í það. Í næsta tíma verður meira testing
 , sem gékk bara ágætlega. Við náðum að tengja LED ljós við Pi'ið og kveikja á því. Það 
 næsta sem er gert er að fá myndavél og ná að sjá mynd. Kannski byrja á að vinna með mótorana 
 til að virka en við sjáum til. Til næsta dags. 
-*************************************************************************
+************************************************************************ 
 - 01.03.17
 Í dag setti ég upp myndavélina og reindi að ná að strema því á aðra tölvu en lenti í vandamálum
 þar sem talvan vildi ekki hlaða niður vlc og að updata sofwareið var ekki að virka. 
 Bjartur mætti ekki í dag.
+************************************************************************ 
+- 03.03.17 -
+Í dag virkaði að updata ig upgrade PI'ið en því miður tók það allan tíman og ekki var hægt að gera annað.
+************************************************************************ 
+- 17.03.17 -
+Ég hef ekki skráð dagbók í svolítinn tíma en það sem er komið er að við erum buin að tengja myndavélinna og géta láta hana 
+streama mynd yfir VLC myndskeiðið. Hægt var að horfa á myndina frá annari tölvu með að nota ip'ið á pi'inni.
+Við fundum líka lausn á að stjórna consolinu. Mín fartalva er notuð meðan annað er ekki til staðar.
+Það sem þarf að vera gert er að finna lausn á því að géta stjórnað pyton cóða frá annari tölvu og svo þarf að búa til sjálfan
+drón líkaman. Vonandi mun allt ganga vel og við náum að gera eitthvað að virði.
