@@ -69,3 +69,25 @@ Veikur.
 
 03/03/2017
 Notuðum mest allann tímann í að prófa kameruna og installa fullt af updates fyrir raspberry pi sem tók langann tíma. 
+
+08/03/2017
+gleymdi að skrifa dagbók, eiríkur var veikur einhverntímann hér?
+
+10/03/2017
+gleymdi að skrifa dagbók, eiríkur var veikur einhverntímann hér?
+
+15/03/2017
+gleymdi að skrifa dagbók, eiríkur var veikur einhverntímann hér?
+
+17/03/2017
+Unnum eitthvað í remote control á myndavélinni. getum tengst PI með fartölvu og runnað scriptum!
+
+22/03/2017
+Mætti ekki.
+
+24/03/2017
+Mætti ekki.
+
+29/03/2017
+Tengdi tvo DC mótora við breadboard og notuðum kóða með því. Virkar vel! tengdum fullt af stöffi, mikið af "physical computing". Kveiktum smá í
+borðinu með battery pack, gaman.
