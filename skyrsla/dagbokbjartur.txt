@@ -91,3 +91,11 @@ Mætti ekki.
 29/03/2017
 Tengdi tvo DC mótora við breadboard og notuðum kóða með því. Virkar vel! tengdum fullt af stöffi, mikið af "physical computing". Kveiktum smá í
 borðinu með battery pack, gaman.
+
+31/03/2017
+Gleymdi að skrifa dagbók, en ef ég man rétt þá vorum við að finna út hvernig við gætum notað lyklaborð til að stórna PI-inum remotely. Ég vann
+við að forrita með PyGame til þess að örvatakkar virka á vélmenni.
+
+05/04/2017
+Ég fékk eirík til að hjálpa okkur með batterí pælingar. Kláraði að forrita vélmennið og það virðist sem að einn pinni virkar ekki. Pálmi bjó
+til chassis á meðann.
