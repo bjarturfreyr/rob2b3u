@@ -99,3 +99,25 @@ við að forrita með PyGame til þess að örvatakkar virka á vélmenni.
 05/04/2017
 Ég fékk eirík til að hjálpa okkur með batterí pælingar. Kláraði að forrita vélmennið og það virðist sem að einn pinni virkar ekki. Pálmi bjó
 til chassis á meðann.
+
+07/04/2017
+Páskafrí.
+
+12/04/2017
+Páskafrí.
+
+14/04/2017
+Páskafrí.
+
+19/04/2017
+Páskafrí.
+
+21/04/2017
+Páskafrí.
+
+26/04/2017
+Gerði pin diagnosis á raspberry pi og fann út að einn pinninn virkar ekki. Skipti út 3 snúrum og tengdi Raspberry PI við chassis sem pálmi
+bjó til. Stóru mótorarnir virka, en Eiríkur sagði að við gætum notað meiri volt. Var líka með remote power pælingar, við þurfum að geta keyrt
+robotinn án þess að hafa hann tengdann með snúru við tölvu. ég er með bluetooth lyklaborð sem sér um stjórn, og við erum búnir að gera wireless
+video uplink í VLC. Í næsta tíma þurfum við að vera með microUSB power fyrir raspberry pi, bluetooth lyklaborð, setja inn automatic video og control
+í boot file-inn, líma eða skrúfa raspberry pi, batteríin og breadboard við chassis, og þá erum við basically búnir.
