@@ -53,3 +53,11 @@ streama mynd yfir VLC myndskeiðið. Hægt var að horfa á myndina frá annari 
 Við fundum líka lausn á að stjórna consolinu. Mín fartalva er notuð meðan annað er ekki til staðar.
 Það sem þarf að vera gert er að finna lausn á því að géta stjórnað pyton cóða frá annari tölvu og svo þarf að búa til sjálfan
 drón líkaman. Vonandi mun allt ganga vel og við náum að gera eitthvað að virði.
+************************************************************************ 
+- 22.03.17 -
+Í dag vann ég á heimildaskrána. Bjartur mætti ekki í dag.
+************************************************************************ 
+- 29.03.17 -
+Í dag náðum við að snúa mótar með PI'innu. Það var vandamál að þegar við vorum með tvo þá
+vildi bara einn snúast afturábak. Ekki vitum við hvað er að valda því en það getur ekki verið mótarinn 
+því við prufuðum líka annan. ÞAð verður skoðað þetta í næsta tíma 
