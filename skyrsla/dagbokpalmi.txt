@@ -61,3 +61,15 @@ drón líkaman. Vonandi mun allt ganga vel og við náum að gera eitthvað að 
 Í dag náðum við að snúa mótar með PI'innu. Það var vandamál að þegar við vorum með tvo þá
 vildi bara einn snúast afturábak. Ekki vitum við hvað er að valda því en það getur ekki verið mótarinn 
 því við prufuðum líka annan. ÞAð verður skoðað þetta í næsta tíma 
+************************************************************************
+- 28.04.17 -
+Í dag var fyrsti tíminn minn eftir páska. Bjartur var búin að laga BUG sem var að eitt af pinonum
+var bilaður svo það þurfi að skipta um pinna. Annað hefur komið upp.
+************************************************************************ 
+- 03.04.17 -
+Í dag kom upp vandræði. Það sínist að við hofðum glaymt að taka butkóðan úr bashrc skránni og forritið kom alltaf upp og við 
+náðum ekki að vara a desktopið. Það tók nánast allan tíman að laga það en Bergur var aðeins lengur til að vinna á remote contole.
+************************************************************************ 
+- 05.04.17 -
+Í dag Fékk ég að vita að Pi'ið var fræað svo ekki var hægt að gera neinn kóða. Ég festi bara battery við vélmennið og bjó til
+festingu fyrir powerbrickið. Lagaði víra og festi myndavélinna. Bjartur koma ekki.
