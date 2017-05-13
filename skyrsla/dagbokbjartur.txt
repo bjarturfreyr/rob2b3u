@@ -121,3 +121,22 @@ bjó til. Stóru mótorarnir virka, en Eiríkur sagði að við gætum notað me
 robotinn án þess að hafa hann tengdann með snúru við tölvu. ég er með bluetooth lyklaborð sem sér um stjórn, og við erum búnir að gera wireless
 video uplink í VLC. Í næsta tíma þurfum við að vera með microUSB power fyrir raspberry pi, bluetooth lyklaborð, setja inn automatic video og control
 í boot file-inn, líma eða skrúfa raspberry pi, batteríin og breadboard við chassis, og þá erum við basically búnir.
+
+28/04/2017
+Við prófuðum motors í þessum tíma og kláruðum kóðann þar. Ákvað að reyna að gera daemon sem kveikir á mótor python script og raspivid
+scriptinu á sama tíma þegar við kveiktum á PI-inum. Það virkaði vel. Núna þurfum við bara remote control með lyklaborði, ég kom með
+bluetooth lyklaborð en það fékst ekki tími í að prófa það. Ég ætla að prófa remote connection gegnum IP í næsta tíma.
+
+03/04/2017
+Við vorum í nánast allann tímann að laga PI-inn þar sem hann bootaði alltaf inn í glitchað OS og leyfði okkur ekki að gera neitt. Ég lærði helling
+um linux í þessum tíma, sérstaklega hversu pirrandi það getur verið. Við gerðum eitthvað linux recovery dæmi þar sem við komumst á bakvið kernel og
+við breyttum boot files þaðann. Við reyndum að gera þetta í windows tölvu með kortalesara en það virkaði ekki. Eftir að tíminn var búinn fiktaði
+ég eitthvað með remote control og það var furðulega auðvelt að implementa það!
+
+05/04/2017
+Mætti snemma til að binda endahnútinn á verkefnið. Náði að senda 7.2v straum í gegnum PI-inn og stúta honum. Eiríkur sagði mér að fara að sofa. Úps!
+
+09/04/2017
+Í dag fengum við lánaðann PI hjá öðrum hóp og við stingdum SD kortinu okkar í PI-inn. Sem betur fer virkaði allt og allur kóðinn var ennþá á PI-inum!
+Við settum saman vélmennið og runnuðum kóðanum. Hægt er að stjórna PI-inum remotely og myndavélin streamar á netið. Við tókum upp alla virkni á myndband
+og settum það í folderinn og pushuðum á github. Vel af sér vikið! Það var skemmtilegt að vinna þetta verkefni með pálma. Takk fyrir önnina.
