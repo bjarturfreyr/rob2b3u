@@ -66,10 +66,15 @@ vildi bara einn snúast afturábak. Ekki vitum við hvað er að valda því en 
 Í dag var fyrsti tíminn minn eftir páska. Bjartur var búin að laga BUG sem var að eitt af pinonum
 var bilaður svo það þurfi að skipta um pinna. Annað hefur komið upp.
 ************************************************************************ 
-- 03.04.17 -
+- 03.05.17 -
 Í dag kom upp vandræði. Það sínist að við hofðum glaymt að taka butkóðan úr bashrc skránni og forritið kom alltaf upp og við 
 náðum ekki að vara a desktopið. Það tók nánast allan tíman að laga það en Bergur var aðeins lengur til að vinna á remote contole.
 ************************************************************************ 
-- 05.04.17 -
+- 05.05.17 -
 Í dag Fékk ég að vita að Pi'ið var fræað svo ekki var hægt að gera neinn kóða. Ég festi bara battery við vélmennið og bjó til
 festingu fyrir powerbrickið. Lagaði víra og festi myndavélinna. Bjartur koma ekki.
+************************************************************************ 
+- 05.05.17 -
+Í dag var seinasti dagurinn. Við lentum í vandræðum með snúrur og battery en við náðum því að virka nóu lengi til að géta tekið 
+upp myndband. Það var of mikið vesen fyrir eitthvað svo lítið. Takk fyrir okkur
+
